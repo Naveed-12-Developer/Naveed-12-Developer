@@ -14,4 +14,4 @@ I am a passionate developer currently focusing on **Web Development** and **C++*
 
 ## 📫 Connect with me:
 - **LinkedIn:** [www.linkedin.com/in/naveed-aslam-bb194b3ab]
-- **Portfolio:** [PASTE_YOUR_ACADEMIC_PROJECT_LIVE_LINK_HERE]
+- **Portfolio:** [https://naveed-12-developer.github.io/Academic-Project/]
