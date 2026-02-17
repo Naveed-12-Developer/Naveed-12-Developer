@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Naveed! 👋
 
-<!--
-**Naveed-12-Developer/Naveed-12-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer currently focusing on **Web Development** and **C++**. I love building clean, responsive websites and solving complex problems with logic.
 
-Here are some ideas to get you started:
+## 🚀 My Skills
+- **Frontend:** HTML5, CSS3, JavaScript (Learning React)
+- **Programming:** C++
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My Journey
+- 🎓 Currently working on **Academic Projects** to sharpen my web skills.
+- 💻 Building a personal portfolio to showcase my progress.
+- 🎯 Goal: To become a Full-Stack Developer.
+
+## 📫 Connect with me:
+- **LinkedIn:** [www.linkedin.com/in/naveed-aslam-bb194b3ab]
+- **Portfolio:** [PASTE_YOUR_ACADEMIC_PROJECT_LIVE_LINK_HERE]
